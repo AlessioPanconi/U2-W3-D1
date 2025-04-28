@@ -99,6 +99,8 @@ animalForm.addEventListener("submit", function (event) {
   animalForm.reset();
 });
 
+/*
+
 function displayAniamlsList() {
   animalsList.innerHTML = "";
 
@@ -109,3 +111,6 @@ function displayAniamlsList() {
     animalsList.appendChild(li);
   });
 }
+
+
+ */
